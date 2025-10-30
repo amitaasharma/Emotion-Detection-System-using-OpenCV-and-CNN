@@ -86,8 +86,6 @@ Dataset	FER-2013
 
 🚀 How to Run
 1️⃣ Clone the Repository
-git clone https://github.com/yourusername/Human-Emotion-and-Gesture-Recognition.git
-cd Human-Emotion-and-Gesture-Recognition
 
 2️⃣ Install Dependencies
 pip install tensorflow opencv-python numpy matplotlib
